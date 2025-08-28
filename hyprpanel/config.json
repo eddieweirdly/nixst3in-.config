@@ -1,0 +1,64 @@
+{
+  "bar.customModules.storage.paths": [
+    "/"
+  ],
+  "bar.layouts": {
+    "0": {
+      "left": [
+        "dashboard",
+        "workspaces",
+        "windowtitle"
+      ],
+      "middle": [
+        "media"
+      ],
+      "right": [
+        "volume",
+        "clock",
+        "notifications"
+      ]
+    },
+    "1": {
+      "left": [
+        "dashboard",
+        "workspaces",
+        "windowtitle"
+      ],
+      "middle": [
+        "media"
+      ],
+      "right": [
+        "volume",
+        "network",
+        "bluetooth",
+        "systray",
+        "clock",
+        "notifications"
+      ]
+    },
+    "2": {
+      "left": [
+        "dashboard",
+        "workspaces",
+        "windowtitle"
+      ],
+      "middle": [
+        "media"
+      ],
+      "right": [
+        "volume",
+        "clock",
+        "notifications"
+      ]
+    }
+  },
+  "menus.dashboard.powermenu.avatar.image": "/mnt/windows/Users/Drfrankenstein/Pictures/842666.png",
+  "menus.clock.weather.location": "<79606>",
+  "bar.launcher.icon": "",
+  "menus.dashboard.shortcuts.left.shortcut1.command": "firefox",
+  "menus.dashboard.shortcuts.left.shortcut1.icon": "",
+  "menus.dashboard.shortcuts.left.shortcut1.tooltip": "Firefox",
+  "terminal": "$ghostty",
+  "theme.font.name": "ProFont IIx Nerd Font",
+  "theme.font.label": "ProFont IIx Nerd Font"
+}

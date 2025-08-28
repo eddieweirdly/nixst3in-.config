@@ -1,0 +1,13 @@
+{
+  "bitrate": 200000000,
+  "debug-gui": false,
+  "encoders.disabled": [
+    {
+      "height": 1.0,
+      "offset_x": 0.0,
+      "offset_y": 0.0,
+      "width": 1.0
+    }
+  ],
+  "use-steamvr-lh": false
+}

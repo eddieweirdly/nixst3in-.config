@@ -1,0 +1,18 @@
+{
+	"config" : 
+	[
+		"/home/drfrankenstein/.local/share/Steam/config"
+	],
+	"external_drivers" : null,
+	"jsonid" : "vrpathreg",
+	"log" : 
+	[
+		"/home/drfrankenstein/.local/share/Steam/logs"
+	],
+	"runtime" : 
+	[
+		"/home/drfrankenstein/.local/share/Steam/steamapps/common/SteamVR",
+		"/nix/store/q4150vfxckzj05bw8xs2dlzwgq68zi69-opencomposite-cff07db75c4823afe93ed7027b03d5f7bc86f164/lib/opencomposite"
+	],
+	"version" : 1
+}

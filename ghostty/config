@@ -1,0 +1,16 @@
+
+########## My Changes ##########
+
+gtk-titlebar = false
+title = Ghostty
+theme = Cyberdyne
+font-family = 3270 Nerd Font Cond 
+font-size = 22.5
+background-opacity = 0.75
+background-blur-radius = 50
+bold-is-bright = true
+clipboard-write = allow
+clipboard-read = allow
+keybind = super+t=new_tab
+shell-integration = zsh
+scrollback-limit = 4294967295
